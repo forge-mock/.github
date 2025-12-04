@@ -4,7 +4,7 @@ Hello and welcome to the **Forge Mock** project!
 
 This project is designed to help you quickly generate realistic mock data and simulate APIs for testing and development. Whether you're prototyping a new application, running integration tests, or just exploring ideas, our tool aims to make your life easier
 
-### The project is in the active development stage
+### The project is frozen now and is not planned to be developed futhermore
 
 ## Overview
 
